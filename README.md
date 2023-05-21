@@ -1,7 +1,7 @@
 # Flutter_Bootcamp_02
  ASEE & HiveTech Flutter Bootcamp 2023 - Basics
 
-<b>LECTURE 5</b><br/>
+<b>LECTURE 5 Assignment</b><br/>
 Flutter architectural overview
 • Architectural layers
 Widgets
@@ -9,7 +9,7 @@ Widgets
 • Stateful widgets
 • Widget, Element, Tree
 
-<b>LECTURE 6</b><br/>
+<b>LECTURE 6 Assignment</b><br/>
 Navigation
 • Navigation types
 • Bottom navigation, Drawer, Tabs
