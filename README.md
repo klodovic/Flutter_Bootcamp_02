@@ -17,3 +17,6 @@ Routing
 • Core concepts
 • Navigator class
 • Named Routes
+
+<b>LECTURE 8</b><br/>
+BLoC (Business Logic Component)
