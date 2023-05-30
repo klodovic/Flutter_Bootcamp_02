@@ -19,6 +19,7 @@ Routing
 • Named Routes
 
 <b>LECTURE 7</b><br/>
+State management
 • Shared preferences (store and read data)
 • Secure storage (store,read and delete data)
 • Hive - CRUD
