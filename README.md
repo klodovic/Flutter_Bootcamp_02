@@ -18,5 +18,11 @@ Routing
 • Navigator class
 • Named Routes
 
+<b>LECTURE 7</b><br/>
+• Shared preferences (store and read data)
+• Secure storage (store,read and delete data)
+• Hive - CRUD
+• GNav - A modern google style nav bar for flutter.
+
 <b>LECTURE 8</b><br/>
-BLoC (Business Logic Component)
+BLoC (Business Logic Component) - Beer Api
