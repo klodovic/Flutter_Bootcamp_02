@@ -26,4 +26,11 @@ State management
 • GNav - A modern google style nav bar for flutter.
 
 <b>LECTURE 8</b><br/>
-BLoC (Business Logic Component) - Beer Api
+BLoC (Business Logic Component) - Beer API
+
+<b>LECTURE 9</b><br/>
+Repository layer - Beer API
+• Repository pattern
+• GetIt
+• Freezed
+• Equatable
