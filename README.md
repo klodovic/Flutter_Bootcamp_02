@@ -34,3 +34,8 @@ Repository layer - Beer API
 • GetIt
 • Freezed
 • Equatable
+
+<b>LECTURE 10 (flutter_google_map_bootcamp)</b><br/>
+Native Components
+• Google Maps - Markers, Polylines ang Polygons
+
